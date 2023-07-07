@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **miaoli-psy/miaoli-psy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Miao Li, currently a postdoc in [PALAB](https://www.appearancelab.org/) at the University of Lille.
