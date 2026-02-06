@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Miao Li, currently a postdoc in [PALAB](https://www.appearancelab.org/) at the University of Lille. Find more about me [here](https://miaoli-psy.github.io/).
+I am Miao Li, currently a postdoc in [PALAB](https://www.appearancelab.org/) at École Normale Supérieure - PSL University. Find more about me [here](https://miaoli-psy.github.io/).
